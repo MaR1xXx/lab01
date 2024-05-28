@@ -1,5 +1,4 @@
 # lab01
-## Laboratornaya 1
 
 1. Скачивание *boost*
 `````sh
